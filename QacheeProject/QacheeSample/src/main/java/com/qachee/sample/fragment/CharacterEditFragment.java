@@ -1,7 +1,6 @@
 package com.qachee.sample.fragment;
 
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
 import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -13,6 +12,8 @@ import android.widget.Toast;
 import com.qachee.QacheeManager;
 import com.qachee.sample.R;
 import com.qachee.sample.domain.Character;
+
+import androidx.fragment.app.Fragment;
 
 /**
  * Created by nicolas on 2/17/14.

@@ -2,9 +2,5 @@
     package="com.qachee"
 	android:versionCode="1"
 	android:versionName="1.0b">
-	<uses-sdk
-		android:minSdkVersion="8"
-		android:targetSdkVersion="19"/>
-	<application/>
 
 </manifest>
